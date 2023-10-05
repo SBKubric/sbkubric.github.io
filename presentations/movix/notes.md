@@ -9,7 +9,7 @@
 -   Сергей Колтунов, разработчик, [github](https://github.com/dogbusiness)
 
 note: this is a not for a slide 1
-
+![slonik](https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn3.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRIlXChMgwTLZpmb7xiQlpvCmLT7BByMoQWMb1PJ1ir_FyEQGw8Tx1d3r84_mjCYq_TT4AA5wjVUgCzdvg&psig=AOvVaw3AXICWAq7bJskdN4eAZ-5h&ust=1696634059825000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCPhsWE4IEDFQAAAAAdAAAAABAE)
 h---
 
 # А что делать?
